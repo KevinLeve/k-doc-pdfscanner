@@ -1,0 +1,9 @@
+# Runtime dependencies — implementation-spec v1.4 §6. Fully pinned.
+# Install with --no-deps (IMPLEMENTATION_LOG.md D1): PyPI's PyMuPDF 2.0 declares
+# pymupdf4llm, pymupdf_layout, onnxruntime, numpy, networkx, PyYAML and tabulate,
+# all of which the spec excludes. `pip check` will therefore report them missing; expected.
+PyMuPDF==2.0
+python-docx==1.2.0
+lxml==6.1.3
+typing_extensions==4.16.0
+psutil==7.2.2

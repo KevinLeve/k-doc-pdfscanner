@@ -1,0 +1,14 @@
+K-Doc PDFScanner - License Agreement
+
+K-Doc PDFScanner is free, open-source software built and maintained by a
+single independent developer, Kevin Bastin - not a company. It is licensed
+under the GNU Affero General Public License v3 (AGPL-3.0).
+
+A few notes before you install:
+
+- You're free to use, share, and modify it under the AGPL-3.0 license.
+- Nothing you convert ever leaves your computer - all processing happens
+  locally.
+
+Full license, source code, and details:
+https://github.com/KevinLeve/k-doc-pdfscanner

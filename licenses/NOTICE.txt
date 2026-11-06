@@ -1,0 +1,5 @@
+K-Doc PDFScanner uses open-source third-party components (PyMuPDF/MuPDF,
+python-docx, lxml, psutil, typing_extensions, Python, Tcl/Tk).
+
+Full license texts and attributions for every component are published at:
+https://github.com/KevinLeve/k-doc-pdfscanner
